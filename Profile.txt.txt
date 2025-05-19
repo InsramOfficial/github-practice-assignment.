@@ -1,7 +1,6 @@
 Salam Alikum , My name Is Insram Here. I am the student of University of kotli BS(IT)7th.
-<<<<<<< HEAD
-My favorite programming languages si c#.
+
+My favorite programming languages si python.
 
 
 My Email is insram@gmail.com
-
